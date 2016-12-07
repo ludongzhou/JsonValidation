@@ -15,14 +15,17 @@ public class MetadataClassScene {
 		
 	}
 
-
 	public String VideoPath;
 	public String ParentID;
 	public String VendorName;
 	public String VendorPath;
 	public String Thumbnail;
 	public String Keyframes;
-
+	public String UploadTime;
+	public String VideoPlayPath;
+	public int Visible;
+	public int LogID;
+	public int MaterialID;
 
 	public SceneClass Scene;
 	/*

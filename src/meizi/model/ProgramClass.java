@@ -271,7 +271,7 @@ public class ProgramClass {
 		/*
 		 * 1.5.1 Description Of Contributor
 		 */
-		public DescriptionofContributorClass DescriptionofContributor;
+		public List<DescriptionofContributorClass> DescriptionofContributor;
 		public static class DescriptionofContributorClass{
 			/*
 			 * 1.5.1.1 Name Of Contributor
